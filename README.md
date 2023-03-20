@@ -2,4 +2,4 @@
 
 **Prorject List**
 
-1. [Selector](https://github.com/developermithu/css-mini-projects/selector)
+1. Selector
